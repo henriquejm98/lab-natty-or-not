@@ -10,5 +10,5 @@ Apresentação/Ebook criado 100% pela IA do Gamma.
 Escrevi um prompt detalhado do que eu queria que fosse meu conteúdo, escolhi um tema predefinido e permiti a IA gerar tudo automatiamente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+<a href="https://github.com/henriquejm98/lab-natty-or-not/blob/main/Angular-Tutorial-Completo.pdf">Clique aqui para ver o pdf</a>
 
