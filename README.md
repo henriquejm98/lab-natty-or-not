@@ -1,6 +1,3 @@
-### Template
-
-```markdown
 # Apresentação Angular
 
 ## 📒 Descrição
@@ -14,4 +11,4 @@ Escrevi um prompt detalhado do que eu queria que fosse meu conteúdo, escolhi um
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-```
+
