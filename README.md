@@ -1,20 +1,17 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Apresentação Angular
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma apresentação/tutorial sobre como funciona o framewor Angular e algumas das principais características
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Apresentação/Ebook criado 100% pela IA do Gamma.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Escrevi um prompt detalhado do que eu queria que fosse meu conteúdo, escolhi um tema predefinido e permiti a IA gerar tudo automatiamente.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
